@@ -1,5 +1,5 @@
 _repo: The-Great-Doctrines-of-the-Bible_6038
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ subjects:
 - !lcc 'BT'
 - !lcsh 'Theology, Doctrinal -- Popular works'
 - !lcsh 'Bible -- Theology'
+- GITenberg
 tableOfContents: The doctrine of God -- The doctrine of Jesus Christ -- The doctrine
   of the Holy Spirit -- The doctrine of man -- The doctrines of salvation -- The doctrine
   of the church -- The doctrine of the scriptures -- The doctrine of angels -- The
